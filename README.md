@@ -1,1 +1,1 @@
-# Addrule
+# Addrule: SASJS Lint
